@@ -1,0 +1,81 @@
+
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', serif;
+    font-style: italic;
+    color:black;
+    opacity: 0.3;
+  }
+  
+  h2{
+
+  text-align: center;
+  font-family: 'Times New Roman', serif;
+  font-style: italic;
+  color: white;
+  
+  }
+
+  h3{
+
+  text-align: center;  
+  font-family: 'Times New Roman', serif;
+  font-style: italic;
+  color: white;
+
+
+  }
+
+  h4{
+        text-align: center;
+        font-family: 'Times New Roman', serif;
+        font-style: italic;
+        color: white;
+      
+  }
+
+  figcaption{
+
+        text-align: center;   
+        font-family: 'Times New Roman', serif;
+        color:#ff6347;
+      
+  }
+
+  ol{
+
+
+        font-family: 'Times New Roman', serif;
+        font-style: italic;
+        color: white;
+  }
+
+    
+  
+  
+  p{
+  
+    font-family: 'Times New Roman', serif;
+    font-style: oblique;
+    color: white;
+  
+  }
+
+  
+
+  body{
+
+    background-color:rgba(255, 99, 71, 0.5);
+    font-family: 'Times New Roman', serif;
+    
+    
+    }
+    
+    img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+      border-radius: 50%;
+      box-shadow: 0 0 2px 1px rgb(255, 99, 71)
+    }
